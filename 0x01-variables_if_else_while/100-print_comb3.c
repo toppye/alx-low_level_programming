@@ -5,6 +5,7 @@
  * Description: write a program that prints all possible
  * different combinations of two digits
  * Return : 0
+ * print oly the small combination of the two digit
  */
 int main(void)
 {

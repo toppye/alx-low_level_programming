@@ -4,7 +4,7 @@
  * main - main block
  * Description: write a program that prints all possible
  * different combinations of two digits
- * Return : 0
+ * Return : Always 0
  * print oly the small combination of the two digit
  * All your code should be in the main function
  */

@@ -8,6 +8,7 @@
  * print oly the small combination of the two digit
  * All your code should be in the main function
  */
+
 int main(void)
 {
 	int c;
